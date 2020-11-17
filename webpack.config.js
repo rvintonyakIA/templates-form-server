@@ -1,4 +1,6 @@
 module.exports = {
+  entry: './client/index.js',
+
   module: {
     rules: [
       {
