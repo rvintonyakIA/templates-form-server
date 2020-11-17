@@ -1,0 +1,18 @@
+# third party dependencies
+node_modules
+
+# built files
+dist
+
+# miscellaneous
+.DS_Store
+.sass-cache
+.idea
+.vscode
+*.code-workspace
+
+# should not be versioned
+docker-compose.yml
+*.swp
+.env
+*.map
